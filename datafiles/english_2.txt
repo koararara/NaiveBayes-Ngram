@@ -1,0 +1,13 @@
+0	star
+0	4.6 Billion Years Old
+1	Living
+1	Earth
+2	Earth's Sister
+2	Venus in the Eastern Morning Sun
+3	Discovered by Galileo
+3	Jupiter's Second Satellite
+0	Physical center of the solar system, including the Earth
+2	Earth-like planets
+3	Bright satellites
+1	Third from the Sun
+2	Second from the Sun

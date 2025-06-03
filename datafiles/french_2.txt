@@ -1,0 +1,13 @@
+0	étoile
+0	4,6 milliards d'années
+1	Présence d'organismes vivants
+1	Terre
+2	Sœur de la Terre
+2	Vénus dans le soleil matinal de l'Est
+3	Découverte par Galilée
+3	Deuxième satellite de Jupiter
+0	Centre physique du système solaire, y compris la Terre
+2	Planètes semblables à la Terre
+3	Satellites brillants
+1	Troisième à partir du soleil
+2	Deuxième à partir du soleil
