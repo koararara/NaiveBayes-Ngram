@@ -9,7 +9,7 @@
 ## 構成
 
 ```
-/my-project/
+/NaiveBayes-Ngram/
 ├── src/ # ソースコード
 │ ├── main_demo.cpp # デモ版
 │ ├── main_data.cpp # データファイル読み込み版
